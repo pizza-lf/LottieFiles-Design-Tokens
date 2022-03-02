@@ -3,7 +3,7 @@
   "platforms": {
     "scss": {
       "transformGroup": "scss",
-      "buildPath": "/Users/pizzayap/Library/CloudStorage/OneDrive-Personal/0-LottieFiles 2021/Design Tokens/",
+      "buildPath": "build/scss/",
       "files": [
         {
           "destination": "_variables.scss",
