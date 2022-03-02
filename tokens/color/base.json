@@ -3,7 +3,7 @@
     "base": {
       "white": { "value": "#ffffff" },
       "black": { "value": "#000000" },
-      "grey": {
+      "gray": {
         "50": { "value": "#F6F8F9", "attributes": { "font": "base" } },
         "100": { "value": "#EBF1F5", "attributes": { "font": "base" } },
         "200": { "value": "#DAE1E7", "attributes": { "font": "base" } },
