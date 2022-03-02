@@ -3,10 +3,10 @@
     "background": {
       "button": {
         "primary": {
-          "base": { "value": "{color.base.gray.500.value}" },
-          "hover": { "value": "{color.base.gray.600.value}" },
-          "disabled": { "value": "{color.base.gray.200.value}" },
-          "active": { "value": "{color.base.gray.200.value}" }
+          "base": { "value": "{color.base.teal.500.value}" },
+          "hover": { "value": "{color.base.teal.600.value}" },
+          "disabled": { "value": "{color.base.teal.200.value}" },
+          "active": { "value": "{color.base.teal.200.value}" }
         }
       }
     }
