@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 02 Mar 2022 14:31:20 GMT
+// Generated on Wed, 02 Mar 2022 14:46:06 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -16,16 +16,16 @@ StyleDictionaryColorBackgroundButtonPrimaryDisabled,
 StyleDictionaryColorBackgroundButtonPrimaryActive,
 StyleDictionaryColorBaseWhite,
 StyleDictionaryColorBaseBlack,
-StyleDictionaryColorBaseGrey50,
-StyleDictionaryColorBaseGrey100,
-StyleDictionaryColorBaseGrey200,
-StyleDictionaryColorBaseGrey300,
-StyleDictionaryColorBaseGrey400,
-StyleDictionaryColorBaseGrey500,
-StyleDictionaryColorBaseGrey600,
-StyleDictionaryColorBaseGrey700,
-StyleDictionaryColorBaseGrey800,
-StyleDictionaryColorBaseGrey900,
+StyleDictionaryColorBaseGray50,
+StyleDictionaryColorBaseGray100,
+StyleDictionaryColorBaseGray200,
+StyleDictionaryColorBaseGray300,
+StyleDictionaryColorBaseGray400,
+StyleDictionaryColorBaseGray500,
+StyleDictionaryColorBaseGray600,
+StyleDictionaryColorBaseGray700,
+StyleDictionaryColorBaseGray800,
+StyleDictionaryColorBaseGray900,
 StyleDictionaryColorBaseTeal100,
 StyleDictionaryColorBaseTeal200,
 StyleDictionaryColorBaseTeal500,

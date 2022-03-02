@@ -203,11 +203,11 @@
       "button": {
         "primary": {
           "base": {
-            "value": "#ff0fccce",
+            "value": "#ff606f7b",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.500.value}"
+              "value": "{color.base.gray.500.value}"
             },
             "name": "color_background_button_primary_base",
             "attributes": {
@@ -226,11 +226,11 @@
             ]
           },
           "hover": {
-            "value": "#ff1fa4ab",
+            "value": "#ff3d4852",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.600.value}"
+              "value": "{color.base.gray.600.value}"
             },
             "name": "color_background_button_primary_hover",
             "attributes": {
@@ -249,11 +249,11 @@
             ]
           },
           "disabled": {
-            "value": "#ff9fefef",
+            "value": "#ffdae1e7",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.200.value}"
+              "value": "{color.base.gray.200.value}"
             },
             "name": "color_background_button_primary_disabled",
             "attributes": {
@@ -272,11 +272,11 @@
             ]
           },
           "active": {
-            "value": "#ff9fefef",
+            "value": "#ffdae1e7",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.200.value}"
+              "value": "{color.base.gray.200.value}"
             },
             "name": "color_background_button_primary_active",
             "attributes": {
@@ -336,14 +336,14 @@
           "black"
         ]
       },
-      "grey": {
+      "gray": {
         "50": {
           "value": "#fff6f8f9",
           "attributes": {
             "font": "base",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "50"
           },
           "filePath": "tokens/color/base.json",
@@ -354,11 +354,11 @@
               "font": "base"
             }
           },
-          "name": "color_base_grey_50",
+          "name": "color_base_gray_50",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "50"
           ]
         },
@@ -368,7 +368,7 @@
             "font": "base",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "100"
           },
           "filePath": "tokens/color/base.json",
@@ -379,11 +379,11 @@
               "font": "base"
             }
           },
-          "name": "color_base_grey_100",
+          "name": "color_base_gray_100",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "100"
           ]
         },
@@ -393,7 +393,7 @@
             "font": "base",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "200"
           },
           "filePath": "tokens/color/base.json",
@@ -404,11 +404,11 @@
               "font": "base"
             }
           },
-          "name": "color_base_grey_200",
+          "name": "color_base_gray_200",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "200"
           ]
         },
@@ -418,7 +418,7 @@
             "font": "base",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "300"
           },
           "filePath": "tokens/color/base.json",
@@ -429,11 +429,11 @@
               "font": "base"
             }
           },
-          "name": "color_base_grey_300",
+          "name": "color_base_gray_300",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "300"
           ]
         },
@@ -443,7 +443,7 @@
             "font": "base",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "400"
           },
           "filePath": "tokens/color/base.json",
@@ -454,11 +454,11 @@
               "font": "base"
             }
           },
-          "name": "color_base_grey_400",
+          "name": "color_base_gray_400",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "400"
           ]
         },
@@ -468,7 +468,7 @@
             "font": "base",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "500"
           },
           "filePath": "tokens/color/base.json",
@@ -479,11 +479,11 @@
               "font": "base"
             }
           },
-          "name": "color_base_grey_500",
+          "name": "color_base_gray_500",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "500"
           ]
         },
@@ -493,7 +493,7 @@
             "font": "inverse",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "600"
           },
           "filePath": "tokens/color/base.json",
@@ -504,11 +504,11 @@
               "font": "inverse"
             }
           },
-          "name": "color_base_grey_600",
+          "name": "color_base_gray_600",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "600"
           ]
         },
@@ -518,7 +518,7 @@
             "font": "inverse",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "700"
           },
           "filePath": "tokens/color/base.json",
@@ -529,11 +529,11 @@
               "font": "inverse"
             }
           },
-          "name": "color_base_grey_700",
+          "name": "color_base_gray_700",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "700"
           ]
         },
@@ -543,7 +543,7 @@
             "font": "inverse",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "800"
           },
           "filePath": "tokens/color/base.json",
@@ -554,11 +554,11 @@
               "font": "inverse"
             }
           },
-          "name": "color_base_grey_800",
+          "name": "color_base_gray_800",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "800"
           ]
         },
@@ -568,7 +568,7 @@
             "font": "inverse",
             "category": "color",
             "type": "base",
-            "item": "grey",
+            "item": "gray",
             "subitem": "900"
           },
           "filePath": "tokens/color/base.json",
@@ -579,11 +579,11 @@
               "font": "inverse"
             }
           },
-          "name": "color_base_grey_900",
+          "name": "color_base_gray_900",
           "path": [
             "color",
             "base",
-            "grey",
+            "gray",
             "900"
           ]
         }
