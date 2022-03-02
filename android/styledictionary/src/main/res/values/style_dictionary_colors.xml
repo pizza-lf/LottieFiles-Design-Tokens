@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 02 Mar 2022 16:03:06 GMT
+  Generated on Wed, 02 Mar 2022 16:14:22 GMT
 -->
 <resources>
   <color name="color_background_button_primary_base">#ff0fccce</color>
@@ -10,9 +10,9 @@
   <color name="color_background_button_primary_disabled">#ff9fefef</color>
   <color name="color_background_button_primary_active">#ff9fefef</color>
   <color name="color_background_button_primary_dark_base">#ff9fefef</color>
-  <color name="color_background_button_primary_dark_hover">#ff9fefef</color>
-  <color name="color_background_button_primary_dark_disabled">#ff0fccce</color>
-  <color name="color_background_button_primary_dark_active">#ff0fccce</color>
+  <color name="color_background_button_primary_dark_hover">#ff0fccce</color>
+  <color name="color_background_button_primary_dark_disabled">#ff1fa4ab</color>
+  <color name="color_background_button_primary_dark_active">#ff1fa4ab</color>
   <color name="color_base_white">#ffffffff</color>
   <color name="color_base_black">#ff000000</color>
   <color name="color_base_gray_50">#fff6f8f9</color>

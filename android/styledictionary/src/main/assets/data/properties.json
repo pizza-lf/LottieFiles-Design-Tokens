@@ -121,11 +121,11 @@
             ]
           },
           "hover": {
-            "value": "#ff9fefef",
+            "value": "#ff0fccce",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.200.value}"
+              "value": "{color.base.teal.500.value}"
             },
             "name": "color_background_button_primary_dark_hover",
             "attributes": {
@@ -144,11 +144,11 @@
             ]
           },
           "disabled": {
-            "value": "#ff0fccce",
+            "value": "#ff1fa4ab",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.500.value}"
+              "value": "{color.base.teal.600.value}"
             },
             "name": "color_background_button_primary_dark_disabled",
             "attributes": {
@@ -167,11 +167,11 @@
             ]
           },
           "active": {
-            "value": "#ff0fccce",
+            "value": "#ff1fa4ab",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.500.value}"
+              "value": "{color.base.teal.600.value}"
             },
             "name": "color_background_button_primary_dark_active",
             "attributes": {

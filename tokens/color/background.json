@@ -10,9 +10,9 @@
         },
         "primary-dark": {
           "base": { "value": "{color.base.teal.200.value}" },
-          "hover": { "value": "{color.base.teal.200.value}" },
-          "disabled": { "value": "{color.base.teal.500.value}" },
-          "active": { "value": "{color.base.teal.500.value}" }
+          "hover": { "value": "{color.base.teal.500.value}" },
+          "disabled": { "value": "{color.base.teal.600.value}" },
+          "active": { "value": "{color.base.teal.600.value}" }
         }
       }
     }
