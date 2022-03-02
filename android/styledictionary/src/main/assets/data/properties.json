@@ -4,11 +4,11 @@
       "button": {
         "primary": {
           "base": {
-            "value": "#ff0fccce",
+            "value": "#ff606f7b",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.500.value}"
+              "value": "{color.base.gray.500.value}"
             },
             "name": "color_background_button_primary_base",
             "attributes": {
@@ -27,11 +27,11 @@
             ]
           },
           "hover": {
-            "value": "#ff1fa4ab",
+            "value": "#ff3d4852",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.600.value}"
+              "value": "{color.base.gray.600.value}"
             },
             "name": "color_background_button_primary_hover",
             "attributes": {
@@ -50,11 +50,11 @@
             ]
           },
           "disabled": {
-            "value": "#ff9fefef",
+            "value": "#ffdae1e7",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.200.value}"
+              "value": "{color.base.gray.200.value}"
             },
             "name": "color_background_button_primary_disabled",
             "attributes": {
@@ -73,11 +73,11 @@
             ]
           },
           "active": {
-            "value": "#ff9fefef",
+            "value": "#ffdae1e7",
             "filePath": "tokens/color/background.json",
             "isSource": true,
             "original": {
-              "value": "{color.base.teal.200.value}"
+              "value": "{color.base.gray.200.value}"
             },
             "name": "color_background_button_primary_active",
             "attributes": {
