@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 02 Mar 2022 14:15:14 GMT
+-->
+<resources>
+  <color name="color_background_button_primary_base">#ff0fccce</color>
+  <color name="color_background_button_primary_hover">#ff1fa4ab</color>
+  <color name="color_background_button_primary_disabled">#ff9fefef</color>
+  <color name="color_background_button_primary_active">#ff9fefef</color>
+  <color name="color_base_white">#ffffffff</color>
+  <color name="color_base_black">#ff000000</color>
+  <color name="color_base_grey_50">#fff6f8f9</color>
+  <color name="color_base_grey_100">#ffebf1f5</color>
+  <color name="color_base_grey_200">#ffdae1e7</color>
+  <color name="color_base_grey_300">#ffb8c2cc</color>
+  <color name="color_base_grey_400">#ff8795a1</color>
+  <color name="color_base_grey_500">#ff606f7b</color>
+  <color name="color_base_grey_600">#ff3d4852</color>
+  <color name="color_base_grey_700">#ff2b343b</color>
+  <color name="color_base_grey_800">#ff22292f</color>
+  <color name="color_base_grey_900">#ff111417</color>
+  <color name="color_base_teal_100">#ffe4f7f7</color>
+  <color name="color_base_teal_200">#ff9fefef</color>
+  <color name="color_base_teal_500">#ff0fccce</color>
+  <color name="color_base_teal_600">#ff1fa4ab</color>
+  <color name="color_base_teal_700">#ff19858b</color>
+  <color name="color_base_teal_800">#ff13666b</color>
+  <color name="color_base_orange_100">#ffffeed3</color>
+  <color name="color_base_orange_500">#fff56e21</color>
+  <color name="color_base_orange_700">#ffc34c09</color>
+  <color name="color_base_green_100">#ffcffcda</color>
+  <color name="color_base_green_500">#ff38c172</color>
+  <color name="color_base_green_700">#ff178233</color>
+  <color name="color_base_red_100">#ffffdce3</color>
+  <color name="color_base_red_500">#ffec3257</color>
+  <color name="color_base_red_700">#ffc91a3d</color>
+  
+</resources>

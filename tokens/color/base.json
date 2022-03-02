@@ -1,0 +1,43 @@
+{
+  "color": {
+    "base": {
+      "white": { "value": "#ffffff" },
+      "black": { "value": "#000000" },
+      "grey": {
+        "50": { "value": "#F6F8F9", "attributes": { "font": "base" } },
+        "100": { "value": "#EBF1F5", "attributes": { "font": "base" } },
+        "200": { "value": "#DAE1E7", "attributes": { "font": "base" } },
+        "300": { "value": "#B8C2CC", "attributes": { "font": "base" } },
+        "400": { "value": "#8795A1", "attributes": { "font": "base" } },
+        "500": { "value": "#606F7B", "attributes": { "font": "base" } },
+        "600": { "value": "#3D4852", "attributes": { "font": "inverse" } },
+        "700": { "value": "#2B343B", "attributes": { "font": "inverse" } },
+        "800": { "value": "#22292F", "attributes": { "font": "inverse" } },
+        "900": { "value": "#111417", "attributes": { "font": "inverse" } }
+      },
+      "teal": {
+        "100": { "value": "#E4F7F7", "attributes": { "font": "base" } },
+        "200": { "value": "#9FEFEF", "attributes": { "font": "base" } },
+        "500": { "value": "#0FCCCE", "attributes": { "font": "inverse" } },
+        "600": { "value": "#1FA4AB", "attributes": { "font": "inverse" } },
+        "700": { "value": "#19858B", "attributes": { "font": "inverse" } },
+        "800": { "value": "#13666B", "attributes": { "font": "inverse" } }
+      },
+      "orange": {
+        "100": { "value": "#FFEED3", "attributes": { "font": "base" } },
+        "500": { "value": "#F56E21", "attributes": { "font": "base" } },
+        "700": { "value": "#C34C09", "attributes": { "font": "base" } }
+      },
+      "green": {
+        "100": { "value": "#CFFCDA", "attributes": { "font": "base" } },
+        "500": { "value": "#38C172", "attributes": { "font": "base" } },
+        "700": { "value": "#178233", "attributes": { "font": "inverse" } }
+      },
+      "red": {
+        "100": { "value": "#FFDCE3", "attributes": { "font": "base" } },
+        "500": { "value": "#EC3257", "attributes": { "font": "inverse" } },
+        "700": { "value": "#C91A3D", "attributes": { "font": "inverse" } }
+      }
+    }
+  }
+}
