@@ -95,6 +95,100 @@
               "active"
             ]
           }
+        },
+        "primary-dark": {
+          "base": {
+            "value": "#ff9fefef",
+            "filePath": "tokens/color/background.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.base.teal.200.value}"
+            },
+            "name": "color_background_button_primary_dark_base",
+            "attributes": {
+              "category": "color",
+              "type": "background",
+              "item": "button",
+              "subitem": "primary-dark",
+              "state": "base"
+            },
+            "path": [
+              "color",
+              "background",
+              "button",
+              "primary-dark",
+              "base"
+            ]
+          },
+          "hover": {
+            "value": "#ff9fefef",
+            "filePath": "tokens/color/background.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.base.teal.200.value}"
+            },
+            "name": "color_background_button_primary_dark_hover",
+            "attributes": {
+              "category": "color",
+              "type": "background",
+              "item": "button",
+              "subitem": "primary-dark",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "background",
+              "button",
+              "primary-dark",
+              "hover"
+            ]
+          },
+          "disabled": {
+            "value": "#ff0fccce",
+            "filePath": "tokens/color/background.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.base.teal.500.value}"
+            },
+            "name": "color_background_button_primary_dark_disabled",
+            "attributes": {
+              "category": "color",
+              "type": "background",
+              "item": "button",
+              "subitem": "primary-dark",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "background",
+              "button",
+              "primary-dark",
+              "disabled"
+            ]
+          },
+          "active": {
+            "value": "#ff0fccce",
+            "filePath": "tokens/color/background.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.base.teal.500.value}"
+            },
+            "name": "color_background_button_primary_dark_active",
+            "attributes": {
+              "category": "color",
+              "type": "background",
+              "item": "button",
+              "subitem": "primary-dark",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "background",
+              "button",
+              "primary-dark",
+              "active"
+            ]
+          }
         }
       }
     },

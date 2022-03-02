@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 02 Mar 2022 15:51:37 GMT
+// Generated on Wed, 02 Mar 2022 16:03:06 GMT
 
 
 #import "StyleDictionaryProperties.h"
@@ -63,6 +63,44 @@
             @"type": @"background",
             @"item": @"button",
             @"subitem": @"primary",
+            @"state": @"active"
+            }
+          },
+        @"primary-dark": @{
+          @"base": @{
+            @"value": [UIColor colorWithRed:0.624f green:0.937f blue:0.937f alpha:1.000f],
+            @"name": @"StyleDictionaryColorBackgroundButtonPrimaryDarkBase",
+            @"category": @"color",
+            @"type": @"background",
+            @"item": @"button",
+            @"subitem": @"primary-dark",
+            @"state": @"base"
+            },
+          @"hover": @{
+            @"value": [UIColor colorWithRed:0.624f green:0.937f blue:0.937f alpha:1.000f],
+            @"name": @"StyleDictionaryColorBackgroundButtonPrimaryDarkHover",
+            @"category": @"color",
+            @"type": @"background",
+            @"item": @"button",
+            @"subitem": @"primary-dark",
+            @"state": @"hover"
+            },
+          @"disabled": @{
+            @"value": [UIColor colorWithRed:0.059f green:0.800f blue:0.808f alpha:1.000f],
+            @"name": @"StyleDictionaryColorBackgroundButtonPrimaryDarkDisabled",
+            @"category": @"color",
+            @"type": @"background",
+            @"item": @"button",
+            @"subitem": @"primary-dark",
+            @"state": @"disabled"
+            },
+          @"active": @{
+            @"value": [UIColor colorWithRed:0.059f green:0.800f blue:0.808f alpha:1.000f],
+            @"name": @"StyleDictionaryColorBackgroundButtonPrimaryDarkActive",
+            @"category": @"color",
+            @"type": @"background",
+            @"item": @"button",
+            @"subitem": @"primary-dark",
             @"state": @"active"
             }
           }
